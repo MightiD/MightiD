@@ -1,7 +1,2 @@
-Hi, I’m MightiD
-
-I'm learning TypeScript
-
-Studying Computer Science
-
+I sometimes code stuff
 
